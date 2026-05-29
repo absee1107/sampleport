@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Diary Bahi Khata",
+  "description": "An elegant pocket diary style Bahi Khata account manager to record Daily Kamaai (Earnings), Kharcha (Expenses), and Bachat (Savings) featuring ₹ Indian rupee formats, dynamic advice, planning goals, and Excel report sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
